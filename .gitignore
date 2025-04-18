@@ -1,0 +1,47 @@
+# SQL/DBM Project Ignore Rules
+
+# Database-specific files
+*.dbf
+*.ora
+*.log
+*.aud
+*.trc
+*.trm
+*.arc
+*.q
+*.pdb
+*.pks
+*.pkb
+*.csv
+
+# IDE/Editor files
+*.sqlj
+*.sql~
+*.sqln
+*.sqlj
+*.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Oracle-specific temp files
+*.tmp
+*.tmp.*
+*.bad
+*.lst
+*.log
+
+# System files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.save
+
+# Output files
+*.out
+*.diff
